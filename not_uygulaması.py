@@ -48,7 +48,7 @@ def notlari_katitet():
     pass
 
 while True:
-    islem= input('1-Notlari oku\n2 2-Not Gir\n 3-Notlari kayit et\n 4-Çikiş\n')
+    islem= input('1-Notlari oku\n2-Not Gir\n3-Notlari kayit et\n4-Çikiş\n')
 
     if islem == '1':
         ortalamalari_oku()
